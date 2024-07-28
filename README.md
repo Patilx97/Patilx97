@@ -12,7 +12,8 @@ Welcome to my GitHub profile! Here you'll find some of my projects, contribution
 ### 🔧 Technologies and Tools
 
 - **Cloud**: AWS
-- **Containerization / Orchestration**: Docker, Kubernetes
+- **Containerization**: Docker
+- **Orchestration**: Kubernetes
 - **CI/CD**: Jenkins, GitHub Actions
 - **Infrastructure as a Code**: Terraform
 - **Configuration Management**: Ansible
