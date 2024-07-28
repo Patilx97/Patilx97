@@ -28,12 +28,9 @@ Welcome to my GitHub profile! Here you'll find some of my projects, contribution
 
 <!-- [LinkedIn](https://www.linkedin.com/in/pritamp97/) -->
 
-<a href="https://www.linkedin.com/in/pritamp97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-devops" height="30" width="40" /></a>
-<!--
-### 📊 GitHub Stats
+<a href="https://www.linkedin.com/in/pritamp97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pritamp97" height="30" width="40" /></a>
+<a href="https://medium.com/@patil97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@patil97" height="30" width="40" /></a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stark303test&show_icons=true&theme=radical)
--->
 Please feel free to explore my repositories and contact me for any collaborations or questions. Let's build awesome things together! 🚀
 
 ![Profile views](https://komarev.com/ghpvc/?username=stark303test&style=flat-square)
