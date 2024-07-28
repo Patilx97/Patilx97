@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Pritam 👋
+# Hi there 👋 I'm Pritam Patil👋
 
 ## DevOps Engineer | Bug Bounty Hunter (Pentester)
 
