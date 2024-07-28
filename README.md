@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Pritam 👋
 
-## DevOps Engineer
+## DevOps Engineer | Bug Bounty Hunter (Pentester)
 
 Welcome to my GitHub profile! Here you'll find some of my projects, contributions, and open-source work.
 <!--
