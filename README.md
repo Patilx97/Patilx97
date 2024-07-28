@@ -24,9 +24,11 @@ Welcome to my GitHub profile! Here you'll find some of my projects, contribution
 
 - Kubernetes
 
-### 📫 How to reach me
+### 📫 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/pritamp97/)
+<!-- [LinkedIn](https://www.linkedin.com/in/pritamp97/) -->
+
+<a href="https://www.linkedin.com/in/pritamp97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-devops" height="30" width="40" /></a>
 <!--
 ### 📊 GitHub Stats
 
