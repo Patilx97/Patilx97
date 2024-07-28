@@ -27,11 +27,11 @@ Welcome to my GitHub profile! Here you'll find some of my projects, contribution
 ### 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/pritamp97/)
-
+<!--
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stark303test&show_icons=true&theme=radical)
-
+-->
 Please feel free to explore my repositories and contact me for any collaborations or questions. Let's build awesome things together! 🚀
 
 ![Profile views](https://komarev.com/ghpvc/?username=stark303test&style=flat-square)
