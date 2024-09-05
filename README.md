@@ -17,13 +17,12 @@ Welcome to my GitHub profile! Here you'll find some of my projects, contribution
 - **CI/CD**: Jenkins, GitHub Actions
 - **Infrastructure as a Code**: Terraform
 - **Configuration Management**: Ansible
-- **Monitoring**: Prometheus, Grafana
 - **Scripting**: Bash
 - **Version Control**: Git, GitHub
 
 ### 🌱 I'm currently learning
 
-- Kubernetes
+- Kubernetes, Prometheus, Grafana
 
 ### 📫 Connect with me
 
