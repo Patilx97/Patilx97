@@ -14,11 +14,11 @@ Welcome to my GitHub profile! Here you'll find some of my projects, contribution
 - **Cloud**: AWS
 - **Containerization**: Docker
 - **Orchestration**: Kubernetes
-- **CI/CD**: Jenkins, GitHub Actions
+- **CI/CD**: Jenkins, GitHub Actions, BitBucket
 - **Infrastructure as a Code**: Terraform
 - **Configuration Management**: Ansible
 - **Scripting**: Bash
-- **Version Control**: Git, GitHub
+- **Version Control**: Git, GitHub, BitBucket
 
 ### 🌱 I'm currently learning
 
